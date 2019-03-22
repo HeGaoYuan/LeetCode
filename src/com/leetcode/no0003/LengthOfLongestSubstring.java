@@ -110,7 +110,7 @@ public class LengthOfLongestSubstring {
         }
         return ans;
     }
-    
+
 
     public static void main(String[] args) {
         LengthOfLongestSubstring test = new LengthOfLongestSubstring();
