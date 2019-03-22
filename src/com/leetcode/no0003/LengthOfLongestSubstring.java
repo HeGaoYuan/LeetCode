@@ -41,11 +41,14 @@ Explanation: The answer is "wke", with the length of 3.
      请注意，你的答案必须是 子串 的长度，"pwke" 是一个子序列，不是子串。
  */
 
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 
 public class LengthOfLongestSubstring {
-    public int lengthOfLongestSubstring(String s) {
-        return lengthOfLongestSubstringForce(s);
+    public int lengthOfLongestSubstring(String s)
+    {
+        return lengthOfLongestSubstringWindowBetter(s);
     }
 
     /*
@@ -94,10 +97,23 @@ public class LengthOfLongestSubstring {
         return longest;
     }
 
-
+    private int lengthOfLongestSubstringWindowBetter(String s) {
+        int n = s.length(), ans = 0;
+        Map<Character, Integer> map = new HashMap<>(); // current index of character
+        // try to extend the range [i, j]
+        for (int j = 0, i = 0; j < n; j++) {
+            if (map.containsKey(s.charAt(j))) {
+                i = Math.max(map.get(s.charAt(j)), i);
+            }
+            ans = Math.max(ans, j - i + 1);
+            map.put(s.charAt(j), j + 1);
+        }
+        return ans;
+    }
+    
 
     public static void main(String[] args) {
         LengthOfLongestSubstring test = new LengthOfLongestSubstring();
-        System.out.println(test.lengthOfLongestSubstringForceBetter("abcabcbb"));
+        System.out.println(test.lengthOfLongestSubstring("abcabcbb"));
     }
 }
