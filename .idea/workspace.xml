@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b8109de-3ea8-4384-b36e-7a4dc90259fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/no0006/Convert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/no0004/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0004/LongestPalindrome.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="157">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="38" />
               <folding>
                 <element signature="e#109#110#0" expanded="true" />
                 <element signature="e#157#158#0" expanded="true" />
@@ -60,10 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0006/Convert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="1175">
               <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -123,8 +123,9 @@
         <option value="$PROJECT_DIR$/src/com/leetcode/no0001/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/no0002/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/no0003/LengthOfLongestSubstring.java" />
-        <option value="$PROJECT_DIR$/src/com/leetcode/no0004/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/no0006/Convert.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/no0004/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java" />
       </list>
     </option>
   </component>
@@ -160,6 +161,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="no0005" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -169,7 +177,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553397024539" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553398233522" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -214,11 +222,11 @@
       </method>
     </configuration>
     <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.no0004.LongestPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.no0005.LongestPalindrome" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.no0004.*" />
+          <option name="PATTERN" value="com.leetcode.no0005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,18 +255,18 @@
       <workItem from="1553084917277" duration="7531000" />
       <workItem from="1553176046339" duration="5462000" />
       <workItem from="1553307205578" duration="617000" />
-      <workItem from="1553308345573" duration="4878000" />
+      <workItem from="1553308345573" duration="5363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18488000" />
+    <option name="totallyTimeSpent" value="18973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929675" visible="true" weight="0.24918567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929675" visible="true" weight="0.24918567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,7 +275,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5007032" side_tool="true" weight="0.24022801" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27144867" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27144867" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.05344585" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,17 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0004/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -355,12 +352,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0006/Convert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="1175">
           <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1207#1208#0" expanded="true" />
             <element signature="e#1256#1257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
           </folding>
         </state>
       </provider>

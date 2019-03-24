@@ -1,4 +1,4 @@
-package com.leetcode.no0004;
+package com.leetcode.no0005;
 
 public class LongestPalindrome {
     public String longestPalindrome(String s) {
@@ -29,7 +29,7 @@ public class LongestPalindrome {
                 j++;
             }
         }
-        return null;
+        return "";
     }
 
 }
