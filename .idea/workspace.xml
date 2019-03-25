@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b8109de-3ea8-4384-b36e-7a4dc90259fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/no0007/Reverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/no0004/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,91 +16,26 @@
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0001/TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0002/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0003/LengthOfLongestSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1926">
-              <caret line="112" selection-start-line="112" selection-end-line="112" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0007/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="38" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0006/Convert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1175">
-              <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+            <state relative-caret-position="82">
+              <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1207#1208#0" expanded="true" />
-                <element signature="e#1256#1257#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="657" selection-start-line="657" selection-end-line="657" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1404">
-              <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1638">
-              <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
-              <folding>
-                <element signature="e#4139#4140#0" expanded="true" />
-                <element signature="e#4164#4165#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="164">
+              <caret line="430" selection-start-line="430" selection-end-line="430" />
             </state>
           </provider>
         </entry>
@@ -126,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/com/leetcode/no0006/Convert.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/no0004/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/no0007/Reverse.java" />
       </list>
     </option>
   </component>
@@ -141,8 +77,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,18 +100,28 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="no0005" type="462c0819:PsiDirectoryNode" />
+              <item name="no0006" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="no0007" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553398233522" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553513182553" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -194,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Convert">
+  <component name="RunManager" selected="Application.Reverse">
     <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.no0006.Convert" />
       <module name="LeetCode" />
@@ -234,8 +178,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.no0007.Reverse" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.no0007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.Convert" />
         <item itemvalue="Application.LongestPalindrome" />
         <item itemvalue="Application.LengthOfLongestSubstring" />
@@ -255,18 +213,19 @@
       <workItem from="1553084917277" duration="7531000" />
       <workItem from="1553176046339" duration="5462000" />
       <workItem from="1553307205578" duration="617000" />
-      <workItem from="1553308345573" duration="5363000" />
+      <workItem from="1553308345573" duration="5570000" />
+      <workItem from="1553508038725" duration="3469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18973000" />
+    <option name="totallyTimeSpent" value="22649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929675" visible="true" weight="0.24918567" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929675" visible="true" weight="0.25407165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -275,8 +234,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.5007032" side_tool="true" weight="0.24022801" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27144867" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.05344585" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28410688" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42616034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -285,7 +244,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32882884" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32630098" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -301,6 +260,24 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+          <folding>
+            <element signature="e#4139#4140#0" expanded="true" />
+            <element signature="e#4164#4165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0001/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -325,50 +302,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+        <state relative-caret-position="432">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0006/Convert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+        <state relative-caret-position="1188">
+          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
           <folding>
-            <element signature="e#4139#4140#0" expanded="true" />
-            <element signature="e#4164#4165#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="11826">
           <caret line="657" selection-start-line="657" selection-end-line="657" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0006/Convert.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1207#1208#0" expanded="true" />
-            <element signature="e#1256#1257#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="164">
+          <caret line="430" selection-start-line="430" selection-end-line="430" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0005/LongestPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0007/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="38" />
+        <state relative-caret-position="82">
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
           <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
           </folding>
         </state>
       </provider>
