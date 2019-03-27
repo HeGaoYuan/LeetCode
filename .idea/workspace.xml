@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b8109de-3ea8-4384-b36e-7a4dc90259fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/no0008/MyAtoi.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/no0008/MyAtoi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/no0007/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/no0007/Reverse.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +48,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0008/MyAtoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="342">
               <caret line="100" column="32" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
               <folding>
                 <element signature="e#2800#2801#0" expanded="true" />
@@ -132,7 +134,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553663158746" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553663384421" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -240,12 +242,12 @@
       <workItem from="1553176046339" duration="5462000" />
       <workItem from="1553307205578" duration="617000" />
       <workItem from="1553308345573" duration="5570000" />
-      <workItem from="1553508038725" duration="7966000" />
+      <workItem from="1553508038725" duration="8194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27146000" />
+    <option name="totallyTimeSpent" value="27374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -260,7 +262,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5007032" side_tool="true" weight="0.24022801" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32630098" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.05344585" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35021096" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,7 +391,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/no0008/MyAtoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="342">
           <caret line="100" column="32" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
           <folding>
             <element signature="e#2800#2801#0" expanded="true" />
